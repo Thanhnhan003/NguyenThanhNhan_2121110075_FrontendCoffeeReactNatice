@@ -18,3 +18,16 @@
 ## 📝 Notes
 
 - [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
+- 
+## Command push
+echo "# NguyenThanhNhan_2121110075_FrontendCoffeeReactNatice" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/Thanhnhan003/NguyenThanhNhan_2121110075_FrontendCoffeeReactNatice.git
+  git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/Thanhnhan003/NguyenThanhNhan_2121110075_FrontendCoffeeReactNatice.git
+  git branch -M main
+  git push -u origin main
